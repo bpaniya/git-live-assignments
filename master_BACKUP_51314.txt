@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+My first commit for master file.
+=======
+Changes done from master branch.
+>>>>>>> master
