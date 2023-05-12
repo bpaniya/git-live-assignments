@@ -1,0 +1,8 @@
+Solution for wrok flow:
+We can divide the task according to the effeciency and skill set of our team.
+We can assign the tasks to the different teams and the functions to the team members together they will create a function.
+
+
+Solution for scheduled release of our code:
+
+We can automate the release strucure through jenkins integration if our works fine.
